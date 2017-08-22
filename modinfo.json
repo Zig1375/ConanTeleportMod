@@ -1,0 +1,16 @@
+{
+	"name": "Teleport",
+	"description": "This mod allows you to teleport to any distance.\r\n\r\nTo study the mod, you must have 20 level and 4 free points.\r\n\r\nThe mod incude:\r\nTeleport\r\nGold Teleport Token\r\nOne-time scroll of teleportation (Teleport Scroll)\r\n\r\nFor teleportation it is necessary to have a minimum of 2 teleporters builded, as well as the Gold Teleport Token or Lingering Essence in the teleporter's inventory.\r\n\r\nTeleport Scroll teleport you to the nearest Teleport. After using the scroll disappears.\r\n\r\nCreation of teleport, tokens and scrolls of teleportation is performed in the altar of Mitra 2 levels and higher.\r\n\r\n----\r\n\r\nIf you like our mod, you can make donate.\r\n\r\nWebMoney\r\nWMR: R343794309290\r\nWMZ: Z528937347910\r\nWME: E110663095800\r\n\r\nPaypal: https://www.paypal.me/zig1375\r\n\r\n",
+	"changeNote": "- Fix some bugs",
+	"author": "Zig1375",
+	"authorUrl": "http://steamcommunity.com/profiles/76561197986705182/",
+	"versionMajor": 0,
+	"versionMinor": 9,
+	"versionBuild": 13,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "873396256",
+	"steamVisibility": 0,
+	"folderName": "Teleport",
+	"revisionNumber": 64403,
+	"snapshotId": 13528
+}
