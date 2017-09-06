@@ -6,11 +6,11 @@
 	"authorUrl": "http://steamcommunity.com/profiles/76561197986705182/",
 	"versionMajor": 0,
 	"versionMinor": 9,
-	"versionBuild": 13,
+	"versionBuild": 14,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "873396256",
 	"steamVisibility": 0,
 	"folderName": "Teleport",
-	"revisionNumber": 64403,
-	"snapshotId": 13528
+	"revisionNumber": 65582,
+	"snapshotId": 13669
 }
